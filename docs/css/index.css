@@ -1,4 +1,12 @@
 .heading div:nth-child(1)   {
     text-align: center;
-    font-size: 40px;
+    font-size: 45px;
+}
+.heading div:nth-child(2)   {
+    text-align: center;
+    font-size: 23px;
+}
+
+.ocean-gradient {
+    background: linear-gradient(90deg, rgba(70,141,251,1) 1%, rgba(39,141,233,1) 16%, rgba(118,232,255,1) 87%);
 }
